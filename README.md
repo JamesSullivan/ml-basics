@@ -1,4 +1,4 @@
-# Updated Version of Machine Learning Basics
+# Updated Version of Machine Learning Basics for 2024
 
 ## Tested using the following versions
 
