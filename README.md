@@ -1,7 +1,21 @@
-# Machine Learning Basics
+# Updated Version of Machine Learning Basics
 
-This repository contains the exercise files for the [Create machine learning models](https://docs.microsoft.com/learn/paths/create-machine-learn-models/) learning path on Microsoft Learn.
+## Tested using the following versions
 
-## Contributing
+matplotlib                3.8.4
 
-We are not currently accepting external contributions for this repo. If you encounter any problems, please report an issue.
+numpy                     1.26.4
+
+pandas                    2.2.2
+
+python                    3.11
+
+pytorch                   2.3.0
+
+torchvision               0.15.2
+
+This repository contains the exercise files for the [Create machine learning models](https://docs.microsoft.com/learn/paths/create-machine-learn-models/) learning path on Microsoft Learn. However, a few minor changes to the files have been made to work with the above mentioned library versions.
+
+
+
+

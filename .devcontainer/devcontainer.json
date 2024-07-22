@@ -6,7 +6,7 @@
   // Install python extension"
   "extensions":["ms-python.python"],
   
-  //Use Python 3.5 environment by defualt
+  //Use Python 3.11 environment by defualt
   "settings": {
     "terminal.integrated.shell.linux": "/bin/bash",
     "python.pythonPath": "/opt/conda/bin/python",
